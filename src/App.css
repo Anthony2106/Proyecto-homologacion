@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f4ff; /* Fondo claro para hacer juego con el Login */
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
